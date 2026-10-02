@@ -1,1 +1,3 @@
+CREATE DATABASE hospital_analytics;
 
+USE hospital_analytics;
